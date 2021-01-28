@@ -12,6 +12,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Pluto-ty&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Thyago Araujo's github stats" />
   <a href="https://github.com/Plutp-ty/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pluto-ty&layout=compact&theme=material-palenight?hide=Yarnn," />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?hide=Yarnn?username=Pluto-ty&layout=compact&theme=material-palenight," />
 </a>
 </div>
