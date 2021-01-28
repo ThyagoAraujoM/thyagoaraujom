@@ -1,11 +1,11 @@
-### Hi there 👋
+### Olá! 👋
 
 <!--
 **Pluto-ty/Pluto-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
 - Atualmente estou aprendendo: Html, Css e Javascript.
 - Eu pretendo aprender: Node js, React js, Mongo DB.
-- Como me alcançar: <a href="https://www.linkedin.com/in/thyago-araujo-m/">Linkedin</a>
+- Veja meu Linkedin: <a href="https://www.linkedin.com/in/thyago-araujo-m/">Linkedin</a>
 
 <div align="center">
   <a href="https://github.com/Pluto-ty/github-readme-stats">
