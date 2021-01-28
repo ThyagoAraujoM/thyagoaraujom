@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Pluto-ty/Pluto-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pluto-ty/Pluto-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
 Here are some ideas to get you started:
 
@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 <div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-[![ARTHUR PC's github stats](https://github-readme-stats.vercel.app/api?username=arthurpc03&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
