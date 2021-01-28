@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 <div align="center">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluto-ty&hide=contribs,prs)">
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plutoty&hide=contribs,prs)">
 </div>
