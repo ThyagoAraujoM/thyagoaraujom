@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thyagoaraujo&show_icons=true&theme=radical)
+  <a href="https://github.com/Pluto-ty/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Pluto-ty&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Thyago Araujo's github stats" />
 </div>
