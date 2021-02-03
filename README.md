@@ -1,4 +1,4 @@
-### Olá! Me chamo Thyago tenho 20 anos, atualmente focado em estudar as melhores tecnologias de desenvolvimento web e mobile. 
+### Olá! Me chamo Thyago tenho 20 anos e atualmente estou focado em estudar as melhores tecnologias de desenvolvimento web e mobile. 
 
 <!--
 **Pluto-ty/Pluto-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
