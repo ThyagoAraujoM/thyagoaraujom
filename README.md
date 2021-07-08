@@ -3,7 +3,7 @@
 <!--
 **thyagoaraujom/thyagoaraujom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
-- Atualmente estou aprendendo: Html, Css e Javascript.
+- Atualmente estou aprendendo: Html, Css e Javascript, FireBase.
 - Eu pretendo aprender: Node js, React js, Mongo DB.
 - Veja meu Linkedin: <a href="https://www.linkedin.com/in/thyago-araujo-m/">Thyago Araujo</a>
 
