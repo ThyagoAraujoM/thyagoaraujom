@@ -6,6 +6,7 @@
 - Atualmente estou aprendendo: Html, Css e Javascript, FireBase.
 - Eu pretendo aprender: Node js, React js, Mongo DB.
 - Veja meu Linkedin: <a href="https://www.linkedin.com/in/thyago-araujo-m/">Thyago Araujo</a>
+- - Veja meu <a href="https://thyagoaraujom.github.io/portfolio/">portfólio</a>. 
 
 <div align="center">
   <a href="https://github.com/thyagoaraujom/github-readme-stats">
