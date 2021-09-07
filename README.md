@@ -9,9 +9,9 @@
 - Veja meu <a href="https://thyagoaraujom.github.io/portfolio/">portfólio</a>. 
 
 <div align="center">
-  <a href="https://github.com/thyagoaraujom/github-readme-stats">
+  <a href="https://github.com/thyagoaraujom">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thyagoaraujom&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Thyago Araujo's github stats" />
-  <a href="https://github.com/Plutp-ty/github-readme-stats">
+  <a href="https://github.com/thyagoaraujom">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thyagoaraujom&hide=Yarnn&layout=compact&theme=material-palenight" />
 </a>
