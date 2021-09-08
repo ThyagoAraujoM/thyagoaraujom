@@ -1,11 +1,6 @@
-### Olá! Me chamo Thyago tenho 21 anos e atualmente estou focado em estudar as melhores tecnologias de desenvolvimento web. 
+### Olá! Me chamo Thyago. 
 
-<!--
-**thyagoaraujom/thyagoaraujom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
-
-- Atualmente estou aprendendo: Html, Css e Javascript, FireBase.
-- Eu pretendo aprender: Node js, React js, Mongo DB.
-- Veja meu Linkedin: <a href="">Thyago Araujo</a>
+- Atualmente estou aprendendo: Node js, React js, Mongo DB.
 - Veja meu <a href="https://thyagoaraujom.github.io/portfolio/">portfólio</a>. 
 
 <div>
