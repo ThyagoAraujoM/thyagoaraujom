@@ -1,5 +1,5 @@
 ### Olá! Me chamo Thyago. 
-- Atualmente estou aprendendo: Node js, React js, Mongo DB.
+- Atualmente estou aprendendo: Nodejs, Reactjs, Typescript.
 - Veja meu <a href="https://thyago-araujo.vercel.app">portfólio</a>. 
 ##
 <div>
