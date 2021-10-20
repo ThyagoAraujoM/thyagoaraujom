@@ -1,6 +1,6 @@
 ### Olá! Me chamo Thyago. 
 - Atualmente estou aprendendo: Nodejs, Reactjs, Typescript.
-- Veja meu <a href="https://thyago-araujo.vercel.app">portfólio</a>. 
+- Veja meu <a href="https://thyago-araujo-portfolio.vercel.app">portfólio</a>. 
 ##
 <div>
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=thyagoaraujom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
