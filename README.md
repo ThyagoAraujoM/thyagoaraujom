@@ -2,7 +2,7 @@
 - Atualmente estou aprendendo: Nodejs, Reactjs, Typescript.
 - Veja meu <a href="https://thyago-araujo-portfolio.vercel.app">portfólio</a>. 
 ##
-<div>
+<div align="center" width="80%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoaraujom&layout=compact&langs_count=7&theme=dracula"/>
     </a>
