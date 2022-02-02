@@ -1,5 +1,6 @@
 ### Olá! Me chamo Thyago. 
-- Atualmente estou aprendendo: Nodejs, Reactjs, Typescript.
+- Desenvolvedor Front end Junior
+- Atualmente trabalhando na [Rubeus](https://rubeus.com.br)
 - Veja meu <a href="https://thyago-araujo-portfolio.vercel.app">portfólio</a>. 
 ##
 <div align="center" width="80%">
