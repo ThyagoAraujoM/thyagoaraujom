@@ -8,6 +8,7 @@
   - 👨‍💻 My relevant projects are here <a href="https://thyago-araujo-portfolio.vercel.app">portfolio</a>. 
 </div>
 
+<br>
 <h2> 🛠 Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
