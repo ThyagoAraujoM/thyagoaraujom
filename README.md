@@ -1,31 +1,37 @@
-### Olá! Me chamo Thyago. 
-- Desenvolvedor Front end Junior
-- Atualmente trabalhando na [Rubeus](https://rubeus.com.br)
-- Veja meu <a href="https://thyago-araujo-portfolio.vercel.app">portfólio</a>. 
-##
-<div align="center" width="80%">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoaraujom&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=thyagoaraujom&theme=omni" />
-</a>
+
+<div align="left">
+  <h1> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> , I'm Thyago. </h1>
+  <p> <img src="https://komarev.com/ghpvc/?username=thyagoaraujom&color=yellow" alt="Profile views" /> </p>
+
+  - 🔥  Junior Web Developer
+  - 🔭 I'm currently working at [Rubeus](https://rubeus.com.br)
+  - 👨‍💻 My relevant projects are here <a href="https://thyago-araujo-portfolio.vercel.app">portfolio</a>. 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Icon Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Icon Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Icon React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Icon Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Icon Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Icon MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Icon FireBase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-</div>
+
+
+<h2> 🛠 Tech Stack</h2>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+
+
+ <p>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoaraujom&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=thyagoaraujom&theme=omni" />
+ </p>
+
   
-  ##
- 
-<div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thyago-araujo-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h2> Social Links </h2>
+
+<a href="https://www.linkedin.com/in/thyago-araujo-m/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-thyagoraujom-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
  
   ![Snake animation](https://github.com/thyagoaraujom/thyagoaraujom/blob/output/github-contribution-grid-snake.svg)
  
