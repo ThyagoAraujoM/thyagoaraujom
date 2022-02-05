@@ -5,14 +5,17 @@
 
   - 🔥  Junior Web Developer
   - 🔭 I'm currently working at [Rubeus](https://rubeus.com.br)
+  - 🚀 Focused on becoming a better web developer.
+  - 🚀 Studying React, Next and Node.
   - 👨‍💻 My relevant projects are here <a href="https://thyago-araujo-portfolio.vercel.app">portfolio</a>. 
+  
 </div>
 
 <br>
 <h2> 🛠 Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
