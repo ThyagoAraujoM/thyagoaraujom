@@ -5,9 +5,9 @@
 
   - 🔥  Junior Web Developer
   - 🔭 I'm currently working at [Rubeus](https://rubeus.com.br)
-  - 🚀 Focused on becoming a better web developer.
-  - 🚀 Studying React, Next and Node.
-  - 👨‍💻 My relevant projects are here <a href="https://thyago-araujo-portfolio.vercel.app">portfolio</a>. 
+  - 🚀 Focused on becoming a better web developer
+  - 🚀 Studying React, Next and Node
+  - 👨‍💻 My relevant projects are here <a href="https://thyago-araujo-portfolio.vercel.app">portfolio</a>
   
 </div>
 
