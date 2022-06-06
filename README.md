@@ -1,6 +1,6 @@
 
 <div align="left">
-  <h1> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> , I'm Thyago. </h1>
+  <h1> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> , I'm Thyago. </h1>
   <p> <img src="https://komarev.com/ghpvc/?username=thyagoaraujom&color=yellow" alt="Profile views" /> </p>
 
   - 🔥  Junior Web Developer
