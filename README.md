@@ -3,7 +3,7 @@
   <h1> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> , I'm Thyago. </h1>
   <p> <img src="https://komarev.com/ghpvc/?username=thyagoaraujom&color=yellow" alt="Profile views" /> </p>
 
-  - 🔥  Junior Web Developer
+  - 🔥  Pleno Web Developer
   - 🔭 I'm currently working at [Rubeus](https://rubeus.com.br)
   - 🚀 Focused on becoming a better web developer
   - 🚀 Studying React, Next and Node
