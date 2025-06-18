@@ -3,10 +3,10 @@
   <h1> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> , I'm Thyago. </h1>
   <p> <img src="https://komarev.com/ghpvc/?username=thyagoaraujom&color=yellow" alt="Profile views" /> </p>
 
-  - 🔥  Pleno Web Developer
+  - 🔥  Pleno Full Stack Developer
   - 🔭 I'm currently working at [Rubeus](https://rubeus.com.br)
-  - 🚀 Focused on becoming a better web developer
-  - 🚀 Studying React, Next and Node
+  - 🚀 Focused on becoming a better developer
+  - 🚀 Studying React, Next and Node.
   - 👨‍💻 My relevant projects are here <a href="https://thyago-araujo-portfolio.vercel.app">portfolio</a>
   
 </div>
@@ -17,10 +17,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![LARAVEL](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
 
  <p>
